@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning in [](https://alura.com.br)
+- 🌱 I’m currently learning in [alura](https://alura.com.br)
